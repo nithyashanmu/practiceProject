@@ -20,6 +20,7 @@ public class FileWriterEx {
 		write.newLine();
 		write.write("Pgm");
 		write.close();
+		write.newLine();
 		readfileEx();
 		
 	}
